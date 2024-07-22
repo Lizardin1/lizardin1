@@ -15,13 +15,15 @@
 <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </div><br/>
 
-Skills:
-:<br/>
+Habilidades:
+ <br/>
  -Minimal APIS:<br/>
  -Deploy Azure App Services:<br/>
  -Microsoft SQL Server:<br/>
  -Micro ORM Dapper:<br/>
  -Apps Windows Forms:<br/>
+ -PyAutoGui:<br/>
+ -Pandas:<br/>
  
 
 
