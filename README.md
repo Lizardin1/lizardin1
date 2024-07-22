@@ -16,11 +16,12 @@
 </div><br/>
 
 Skills:
- -Minimal APIS
- -Deploy Azure App Services
- -Microsoft SQL Server
- -Micro ORM Dapper
- -Apps Windows Forms
+:<br/>
+ -Minimal APIS:<br/>
+ -Deploy Azure App Services:<br/>
+ -Microsoft SQL Server:<br/>
+ -Micro ORM Dapper:<br/>
+ -Apps Windows Forms:<br/>
  
 
 
