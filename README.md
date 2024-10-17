@@ -17,10 +17,13 @@
 ## Habilidades:
  <br/>
  -Minimal APIs<br/>
- -Deploy Azure App Services<br/>
+ -JWT Tokens<br/>
+ -Entity FrameWork Core<br/>
+ -Azure App Services<br/>
  -Microsoft SQL Server<br/>
  -Micro ORM Dapper<br/>
  -Apps Windows Forms<br/>
+ -Playwright/Automação de processos
 
  
 
