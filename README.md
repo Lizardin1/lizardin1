@@ -6,7 +6,7 @@
 
 
 <div style="display: inline_block"><br/>
-<img src="assets/azure-original.svg" alt="Azure Logo" width="48" height="48">
+<img src="azure-original.svg" alt="Azure Logo" width="48" height="48">
 </div><br/>
 
 ## Habilidades:
