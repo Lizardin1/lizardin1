@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizardin1&hide_progress=true&theme=dark&custom_title=Principais%20Linguagens)](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizardin1&hide_progress=true&theme=dark&custom_title=Principais%20Linguagens)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Lizardin1)](https://github.com/anuraghazra/github-readme-stats)
-
 <div style="display: inline_block"><br/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" style="width: 35px; height: 35px">
   <img src ="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="width: 35px; height: 35px">
