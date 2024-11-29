@@ -1,4 +1,4 @@
-## Olá, Eu sou o Gustavo Lizardo e Trabalho com .NET C#!
+## Olá, Eu sou o Gustavo Lizardo e sou desenvolvedor de software!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizardin1&hide_progress=true&theme=dark&custom_title=Principais%20Linguagens)](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizardin1&hide_progress=true&theme=dark&custom_title=Principais%20Linguagens)
 
