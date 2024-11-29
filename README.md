@@ -5,10 +5,10 @@
 
 <div style="display: inline_block"><br/>
   <img src ="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" style="width: 35px; height: 35px">
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="width: 48px; height: 48px">
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="width: 48px; height: 48px">
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" style="width: 48px; height: 48px">
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="width: 48px; height: 48px">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" style="width: 35px; height: 35px">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="width: 35px; height: 35px">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" style="width: 35px; height: 35px">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="width: 35px; height: 35px">
 
 </div><br/>
 
