@@ -1,4 +1,4 @@
-## Olá, Eu sou o Gustavo Lizardo e sou desenvolvedor de software!
+## Olá! Eu sou o Gustavo Lizardo, desenvolvedor de software!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizardin1&hide_progress=true&theme=dark&custom_title=Principais%20Linguagens)](https://github-readme-stats.vercel.app/api/top-langs/?username=Lizardin1&hide_progress=true&theme=dark&custom_title=Principais%20Linguagens)
 
@@ -16,7 +16,7 @@
  <br/>
  - Minimal APIs<br/>
  - JWT Tokens<br/>
- - Entity FrameWork Core: SQL Server / PostgreSQL<br/>
+ - Entity FrameWork Core (SQL Server / PostgreSQL)<br/>
  - Azure App Services<br/>
  - Micro ORM Dapper<br/>
  - Apps Windows Forms<br/>
