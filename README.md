@@ -26,7 +26,8 @@
  - Azure App Services<br/>
  - Micro ORM Dapper<br/>
  - Apps Windows Forms<br/>
- - Playwright/Automação de processos
+ - Playwright/Automação de processos<br/>
+ - React JS
 
  
 
