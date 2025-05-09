@@ -8,7 +8,7 @@
   <img src ="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" style="width: 35px; height: 35px">
   <img src ="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" style="width: 35px; height: 35px">
   <img src ="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="width: 35px; height: 35px">
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" style="width: 35px; height: 35px">
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" style="width: 35px; height: 35px">
   <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" style="width: 35px; height: 35px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"style="width: 35px; height: 35px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"style="width: 35px; height: 35px">
